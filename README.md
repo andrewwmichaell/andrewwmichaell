@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Net, Java, Spring Boot, Angular**
 
-- 👯 I’m looking to collaborate on **Front-End Projects**
+- 👯 I’m looking to collaborate on **Fullstack Projects**
 
 - 🤝 I’m looking for help with **.NET**
 
