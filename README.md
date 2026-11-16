@@ -1,5 +1,5 @@
 <h1 align="center">Andrew Michael</h1>
-<h3 align="center">Junior Java Backend Developer · Spring Boot · MEAN Stack</h3>
+<h3 align="center">Java Backend Developer · Spring Boot · MEAN Stack</h3>
 
 <p align="center">
   Cairo, Egypt &nbsp;|&nbsp; B.Sc. Computer Science & AI, MTI University
