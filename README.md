@@ -66,12 +66,6 @@ Backend developer focused on building clean, maintainable REST APIs with **Java 
 - Junior Java Backend / Full-Stack roles
 - Collaborating on full-stack projects
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewwmichaell&show_icons=true&hide_border=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewwmichaell&layout=compact&hide_border=true" height="150" alt="Top languages"/>
-</p>
 
 ## Languages
 
